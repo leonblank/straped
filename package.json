@@ -1,0 +1,29 @@
+{
+  "name": "Strapped",
+  "version": "1.0.0",
+  "description": "Bootstrap 3 WordPress theme",
+  "main": "gulpfile.js",
+  "author": "William Brown",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-bower": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-include": "latest",
+    "gulp-jshint": "latest",
+    "gulp-livereload": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "gulp-zip": "latest",
+    "jshint-stylish": "latest",
+    "gulp-wrappy": "latest"
+  },
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "wrappy": "^1.0.2"
+  }
+}
