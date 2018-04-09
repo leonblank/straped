@@ -122,7 +122,7 @@ add_action( 'widgets_init', 'straped_widgets_init' );
 function straped_scripts() {
 	wp_enqueue_style( 'straped-style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'straped-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
+	wp_enqueue_script( 'straped-navigation', get_template_directory_uri() . '/js/dist/scripts.min.js', array(), '1.0.0', true );
 
 	wp_enqueue_script( 'straped-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
 
