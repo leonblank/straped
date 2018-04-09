@@ -1,2 +1,2 @@
 First commit of straped a bootstrap 3 template for wordpress...
-* first commit
+* first commit.
