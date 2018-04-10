@@ -60,5 +60,5 @@
       </div>           
     </nav>
   </header><!-- #masthead -->
-
+<div class="container">
 	<div id="content" class="site-content">
