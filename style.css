@@ -4909,8 +4909,8 @@ button.list-group-item-danger {
 .panel-success {
   border-color: #d6e9c6; }
   .panel-success > .panel-heading {
-    color: #3c763d;
-    background-color: #dff0d8;
+    color: #fff;
+    background-color: #088A08;
     border-color: #d6e9c6; }
     .panel-success > .panel-heading + .panel-collapse > .panel-body {
       border-top-color: #d6e9c6; }
@@ -6106,7 +6106,7 @@ optgroup,
 textarea {
   color: #404040;
   font-family: sans-serif;
-  font-size: 16px;
+  font-size: 16px !important;
   font-size: 1rem;
   line-height: 1.5; }
 
