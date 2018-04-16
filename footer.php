@@ -10,10 +10,14 @@
  */
 
 ?>
-</div>
-	</div><!-- #content -->
+</div><!-- content-->
+	</div><!-- #container -->
+	
+	
 
 	<footer id="colophon" class="site-footer">
+	
+	  <div class= "container">
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'straped' ) ); ?>">
 				<?php
@@ -26,6 +30,7 @@
 				/* translators: 1: Theme name, 2: Theme author. */
 				printf( esc_html__( 'Theme: %1$s by %2$s.', 'straped' ), 'straped', '<a href="https://wbrownwebdesigner.com">William Brown</a>' );
 				?>
+				</div>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
