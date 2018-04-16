@@ -4,7 +4,7 @@ Error: File to import not found or unreadable: bootstrap.
          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon
          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat
          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base
-        on line 23 of C:/wamp/www/wordpress/wp-content/themes/straped/sass/style.scss
+        on line 23 of C:\wamp\www\wordpress\wp-content\themes\straped\sass\style.scss
 
 18: 
 19: Normalizing styles have been helped along thanks to the fine work of
@@ -19,7 +19,7 @@ Error: File to import not found or unreadable: bootstrap.
 28: ----------------------------------------------------------------
 
 Backtrace:
-C:/wamp/www/wordpress/wp-content/themes/straped/sass/style.scss:23
+C:\wamp\www\wordpress\wp-content\themes\straped\sass\style.scss:23
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/ruby/lib/ruby/gems/2.2.0/gems/sass-3.4.20/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/ruby/lib/ruby/gems/2.2.0/gems/sass-3.4.20/lib/sass/tree/import_node.rb:45:in `import'
 C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/ruby/lib/ruby/gems/2.2.0/gems/sass-3.4.20/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -56,4 +56,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: bootstrap.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 23 of C:/wamp/www/wordpress/wp-content/themes/straped/sass/style.scss\A \A 18: \A 19: Normalizing styles have been helped along thanks to the fine work of\A 20: Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/\A 21: */\A 22: @import \"vars/variables-site\";\A 23: @import \"bootstrap\";\A 24: \A 25: \A 26: /*--------------------------------------------------------------\A 27: >>> TABLE OF CONTENTS:\A 28: ----------------------------------------------------------------"; }
+  content: "Error: File to import not found or unreadable: bootstrap.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 23 of C:\wamp\www\wordpress\wp-content\themes\straped\sass\style.scss\A \A 18: \A 19: Normalizing styles have been helped along thanks to the fine work of\A 20: Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/\A 21: */\A 22: @import \"vars/variables-site\";\A 23: @import \"bootstrap\";\A 24: \A 25: \A 26: /*--------------------------------------------------------------\A 27: >>> TABLE OF CONTENTS:\A 28: ----------------------------------------------------------------"; }
